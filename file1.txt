@@ -12,5 +12,7 @@ change-2
 change*5
 change*6 final
 
+pull change
+
 
 remote commit
